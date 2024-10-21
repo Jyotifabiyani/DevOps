@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>About jyoti</title>
+<title>About </title>
 </head>
 <body>
 
-<h1>This is about page</h1>
+<h1>about jyoti</h1>
 </body>
 </html>
